@@ -1,0 +1,15 @@
+/home/manniakk/Desktop/QA/bytebankfunc/bin/Debug/net6.0/bytebankfunc
+/home/manniakk/Desktop/QA/bytebankfunc/bin/Debug/net6.0/bytebankfunc.deps.json
+/home/manniakk/Desktop/QA/bytebankfunc/bin/Debug/net6.0/bytebankfunc.runtimeconfig.json
+/home/manniakk/Desktop/QA/bytebankfunc/bin/Debug/net6.0/bytebankfunc.dll
+/home/manniakk/Desktop/QA/bytebankfunc/bin/Debug/net6.0/ref/bytebankfunc.dll
+/home/manniakk/Desktop/QA/bytebankfunc/bin/Debug/net6.0/bytebankfunc.pdb
+/home/manniakk/Desktop/QA/bytebankfunc/obj/Debug/net6.0/bytebankfunc.csproj.AssemblyReference.cache
+/home/manniakk/Desktop/QA/bytebankfunc/obj/Debug/net6.0/bytebankfunc.GeneratedMSBuildEditorConfig.editorconfig
+/home/manniakk/Desktop/QA/bytebankfunc/obj/Debug/net6.0/bytebankfunc.AssemblyInfoInputs.cache
+/home/manniakk/Desktop/QA/bytebankfunc/obj/Debug/net6.0/bytebankfunc.AssemblyInfo.cs
+/home/manniakk/Desktop/QA/bytebankfunc/obj/Debug/net6.0/bytebankfunc.csproj.CoreCompileInputs.cache
+/home/manniakk/Desktop/QA/bytebankfunc/obj/Debug/net6.0/bytebankfunc.dll
+/home/manniakk/Desktop/QA/bytebankfunc/obj/Debug/net6.0/ref/bytebankfunc.dll
+/home/manniakk/Desktop/QA/bytebankfunc/obj/Debug/net6.0/bytebankfunc.pdb
+/home/manniakk/Desktop/QA/bytebankfunc/obj/Debug/net6.0/bytebankfunc.genruntimeconfig.cache
