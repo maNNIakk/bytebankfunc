@@ -1,4 +1,5 @@
 ﻿using bytebankfunc.Funcionarios;
+using bytebankfunc.Parceria;
 using bytebankfunc.SistemaInterno;
 using bytebankfunc.Utilitario;
 #region
@@ -92,11 +93,19 @@ void UsarSistema()
     Diretor ingrid = new Diretor("123654789");
     ingrid.Nome = "Ingrid Sharp";
     ingrid.Senha = "123";
+    ingrid.Login = "indi";
 
     GerenteDeContas marquinho = new GerenteDeContas("321789654");
     marquinho.Nome = "Markin";
     marquinho.Senha = "987";
+    marquinho.Login = "Markin";
 
-    sistema.Logar(ingrid,"123");
-    sistema.Logar(marquinho,"789");
+    ParceiroComercial caio = new ParceiroComercial();
+    caio.Login = "Caiozin";
+    caio.Senha = "123";
+
+
+    sistema.Logar(ingrid,ingrid.Login,"123");
+    sistema.Logar(marquinho,marquinho.Login,"789");
+    sistema.Logar(caio,caio.Login,caio.Senha);
 }

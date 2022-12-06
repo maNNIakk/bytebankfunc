@@ -2,10 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using bytebankfunc.SistemaInterno;
 
 namespace bytebankfunc.Funcionarios
 {
-    public class GerenteDeContas : Funcionario
+    public class GerenteDeContas : FuncionarioAutenticavel
     {
         public GerenteDeContas(string cpf) : base(cpf, 4000)
         {
@@ -21,11 +22,6 @@ namespace bytebankfunc.Funcionarios
         {
             this.Salario *= 1.05;
         }
-        
-        public string Senha {get;set;}
-        public bool Autenticar(string senha)
-        {
-            return this.Senha == senha;
-        }
-    }
+
+}
 }
